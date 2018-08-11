@@ -1,5 +1,5 @@
-lazy val finchVersion = "0.21.0"
-lazy val json4sVersion = "3.5.4"
+lazy val finchVersion = "0.23.0"
+lazy val json4sVersion = "3.6.0"
 
 lazy val buildSettings = Seq(
   organization := "com.github.finagle",
